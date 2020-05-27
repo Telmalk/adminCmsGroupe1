@@ -8,5 +8,15 @@
             "name": "Clément Haller",
             "email": "clement.haller@hetic.net"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Controller\\": "src/Controller",
+            "Model\\": "src/Model",
+            "View\\": "src/View"
+        },
+        "files": [
+            "init.php"
+        ]
+    }
 }
