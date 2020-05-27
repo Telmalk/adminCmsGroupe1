@@ -1,0 +1,12 @@
+{
+    "name": "cleme/groupe1admin",
+    "require": {
+        "symfony/var-dumper": "^5.0"
+    },
+    "authors": [
+        {
+            "name": "Clément Haller",
+            "email": "clement.haller@hetic.net"
+        }
+    ]
+}
